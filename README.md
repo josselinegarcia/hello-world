@@ -2,4 +2,4 @@
 
 Hi there!
 
-Discribtion here
+Description here
